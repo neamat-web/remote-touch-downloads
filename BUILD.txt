@@ -1,0 +1,5 @@
+Remote Touch Windows pilot
+Source commit: fe10145e6ebeed37a5de19957684c2f49b1af894
+GitHub Actions build: 37917835926
+Service: https://remote-touch.onrender.com
+Package is the unmodified RemoteTouch-Setup.zip produced by that successful Windows build.
